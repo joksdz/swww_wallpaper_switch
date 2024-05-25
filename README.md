@@ -11,3 +11,5 @@ the Pos_num_gen.sh should be in the same file location as switch.sh
 # Dependencies 
 - swww
 - bc (for the number gen ,to check if you have it just type "bc" in the terminal ) 
+
+This is a part of my arch config (rice) : https://github.com/joksdz/hypr_dots
